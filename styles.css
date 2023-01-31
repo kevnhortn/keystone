@@ -1459,6 +1459,7 @@ input[type="tel"] {
 		flex-wrap: wrap;
 		row-gap: 4rem;
 		padding-bottom: 3rem;
+		justify-self: center;
 	}
 
 	.travel-info-wrapper p {
