@@ -3374,14 +3374,24 @@ input[type="tel"] {
 		max-width: 600px;
 	}
 
-	.travel-info-wrapper,
-	.speakers-wrapper {
+	.travel-info-wrapper {
 		max-width: 1600px;
+	}
+
+	.speakers-wrapper {
+		justify-content: center;
 		justify-self: center;
+		display: flex;
+		flex-direction: row;
+		width: 100%;
 	}
 
 	.speaker-card {
-		min-width: 25rem;
+		/* min-width: 25rem; */
+		min-width: 4rem;
+		width: 20%;
+		height: 25rem;
+		min-height: 15rem;
 	}
 
 	#agenda::before {
