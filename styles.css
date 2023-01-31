@@ -1459,7 +1459,6 @@ input[type="tel"] {
 		flex-wrap: wrap;
 		row-gap: 4rem;
 		padding-bottom: 3rem;
-		justify-self: center;
 	}
 
 	.travel-info-wrapper p {
@@ -3381,6 +3380,8 @@ input[type="tel"] {
 
 	.travel-info-wrapper {
 		max-width: 1600px;
+		justify-content: center;
+		justify-self: center;
 	}
 
 	.speakers-wrapper {
