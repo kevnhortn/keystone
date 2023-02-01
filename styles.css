@@ -1173,12 +1173,6 @@ input[type="tel"] {
 	color: #444140;
 }
 
-@media (max-width: 768px) {
-	.terms-wrapper #terms {
-		padding: 0.5rem;
-	}
-}
-
 .terms-wrapper input:checked {
 	accent-color: #ffa987;
 }
