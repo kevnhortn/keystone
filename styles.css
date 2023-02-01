@@ -2721,8 +2721,7 @@ input[type="tel"] {
 
 	@media (max-width: 425px) {
 		#agenda::before {
-			height: 30%;
-			top: 90%;
+			transform: translateY(5%);
 		}
 	}
 
