@@ -2719,16 +2719,6 @@ input[type="tel"] {
 		left: 0;
 	}
 
-	/* @media (max-width: 425px) {
-		#agenda::before {
-			content: "";
-			position: absolute;
-			width: 100%;
-			height: 50%;
-			transform: translateY(-35%);
-		}
-	} */
-
 	#agenda .main-heading {
 		margin-top: 8rem;
 	}
