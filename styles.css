@@ -1543,7 +1543,6 @@ input[type="tel"] {
 
 	.modal-content {
 		padding: 2rem 0;
-		overflow: scroll;
 	}
 
 	.modal-heading {
@@ -2168,9 +2167,9 @@ input[type="tel"] {
 		height: 75%;
 	}
 
-	.modal-content {
+	/* .modal-content {
 		overflow: scroll;
-	}
+	} */
 
 	.modal-heading {
 		padding: 0;
