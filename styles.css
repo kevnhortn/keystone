@@ -1543,6 +1543,13 @@ input[type="tel"] {
 
 	.modal-content {
 		padding: 2rem 0;
+		grid-template-rows: repeat(4, auto);
+	}
+
+	@media (max-width: 425px) {
+		.modal-speaker {
+			overflow: scroll;
+		}
 	}
 
 	.modal-heading {
