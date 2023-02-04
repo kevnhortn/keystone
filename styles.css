@@ -1299,6 +1299,7 @@ input[type="tel"] {
 
 	#agenda::before {
 		height: 16%;
+		transform: translateY(25%);
 	}
 
 	.center-sub-heading {
