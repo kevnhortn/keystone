@@ -1298,8 +1298,8 @@ input[type="tel"] {
 	}
 
 	#agenda::before {
-		height: 18%;
-		transform: translateY(55%);
+		height: 20%;
+		transform: translateY(50%);
 	}
 
 	.center-sub-heading {
