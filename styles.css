@@ -1299,7 +1299,7 @@ input[type="tel"] {
 
 	#agenda::before {
 		height: 20%;
-		transform: translateY(50%);
+		transform: translateY(40%);
 	}
 
 	.center-sub-heading {
